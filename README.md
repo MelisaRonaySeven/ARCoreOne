@@ -1,2 +1,2 @@
 # ARCoreOne
-Simple AR app tp learn about Unity AR.
+Simple AR app to learn about Unity AR.
